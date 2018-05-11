@@ -1,0 +1,4 @@
+apscheduler
+dateparser
+praw
+SQLAlchemy
